@@ -1,0 +1,5 @@
+first 120
+second 80
+third 160
+vlad 80
+ludmila 160
